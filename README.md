@@ -57,7 +57,8 @@ app code : https://gitlab.com/sailokeshproject/pyapp
 app pipelines : https://gitlab.com/sailokeshproject/pyapp/-/pipelines
 MR apprepo: https://gitlab.com/sailokeshproject/pyapp/-/merge_requests/1
 
-please provide the email i can provide the access
+if cant access 
+please provide the email which have gitlab i can provide the access
 
 Azure Integration
 
@@ -68,3 +69,16 @@ To enable deployment:
 we need Provide valid Azure credentials to test the infra and deployment changes
 Configure required resources (e.g., Container Registry, Container Apps / App Service)
 Update pipeline variables accordingly
+
+part -2
+
+self assement
+
+                  rate myself
+CICD -- Gitlab -- 4/5       -- worked in migration project
+docker -- docker -- 4/5    -- worked in migration projects metioned in linkdin 
+kubernetes --      -- 3/5    worked in tcs metioned in linkdin
+terraform --        -- 4/5     worked in migration project
+azure cloud --      -- 4/5    worked in aws to azure and onprim to azure migration
+monitering -- datadog -- 2/5   
+git -- 4/5   -- same project
