@@ -23,6 +23,8 @@ tests passed test report
 docker image pushed to gitlab container registery 
 <img width="1237" height="597" alt="image" src="https://github.com/user-attachments/assets/b45f6a6a-0ac5-4833-9369-d910d04479ae" />
 
+build artifacts
+
 
 
 The build pipeline is fully functional and includes:
@@ -53,6 +55,7 @@ Project link
 infra : https://gitlab.com/sailokeshproject/infra
 app code : https://gitlab.com/sailokeshproject/pyapp
 app pipelines : https://gitlab.com/sailokeshproject/pyapp/-/pipelines
+MR apprepo: https://gitlab.com/sailokeshproject/pyapp/-/merge_requests/1
 
 please provide the email i can provide the access
 
@@ -62,6 +65,6 @@ The deployment pipeline is designed to work with Microsoft Azure services.
 
 To enable deployment:
 
-Provide valid Azure credentials
+we need Provide valid Azure credentials to test the infra and deployment changes
 Configure required resources (e.g., Container Registry, Container Apps / App Service)
 Update pipeline variables accordingly
